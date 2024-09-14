@@ -1,0 +1,14 @@
+{
+  "name": "ExampleToken8",
+  "symbol": "EXT8",
+  "description": "An example token used for demonstration purposes.",
+  "image": "https://example.com/images/example-token8.png",
+  "external_url": "https://example.com",
+  "whitepaper_url": "https://example.com/whitepaper",
+  "social_media": {
+    "telegram": "https://t.me/example",
+    "discord": "https://discord.gg/example",
+    "instagram": "https://instagram.com/example",
+    "facebook": "https://facebook.com/example"
+  }
+}
